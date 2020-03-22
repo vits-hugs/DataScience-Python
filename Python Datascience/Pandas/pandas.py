@@ -19,3 +19,6 @@ print(bric.loc['BR'])
 bric['capital'].loc['BR']#assim
 bric.loc['BR']['capital']#ou assim
 bric.loc['BR','capital']#ou assim
+#ANOTAÇÕES
+#posso tranformar qualque arquivo em dataframe (basicamente uma tabelinha)
+#pode pegar keys como colunas especificas
